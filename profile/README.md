@@ -3,7 +3,7 @@
 **Hands-on Workshop on AI Agents as Scientific Research Assistants**
 Nanyang Technological University, Singapore · 15–19 November 2026 · Sponsored by Schmidt Sciences
 
-Everything we built during the week is open for anyone to use and build on.
+Everything we built during the week is public. Each repository states its own licence: mini_agent, agent-tutorial, Sanity, Resplandy and Judgment-Skill are MIT. For the others, please ask the authors before you reuse them.
 Website: **https://agentforge.groundstate.sg/**
 
 ### Tutorials
